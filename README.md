@@ -6,7 +6,7 @@
 
  date    : 2020/10/01 
 
- update :
+ update : 2020/10/02
 
 ***
 
@@ -26,6 +26,7 @@ https://diesel.rs/guides/getting-started/
 ***
 ### more
 
+https://note.com/knaka0209/n/n760773bbf7ce
 
 ***
 
